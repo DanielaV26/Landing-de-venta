@@ -315,6 +315,7 @@ footer {
 
 .footer-column a:nth-child(1) {
     cursor: default;
+    font-weight: bold;
 }
 
 .social-icons a {
